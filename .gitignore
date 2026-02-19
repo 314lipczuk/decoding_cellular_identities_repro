@@ -1,0 +1,7 @@
+__marimo__
+.ruff_cache
+.venv
+Data
+.python-version
+mmc4.zip
+
